@@ -9,7 +9,7 @@ public class main {
 
          salario = valor * horas;
 
-         System.out.println("vai receber: " + salario );
+         System.out.println("você vai receber: " + salario );
 
 
     }
