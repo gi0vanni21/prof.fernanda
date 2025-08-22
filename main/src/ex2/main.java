@@ -3,7 +3,7 @@ package ex2;
 public class main {
     public static void main(String[] args) {
 
-        int num1 = 20;
+        int num1 = 30;
         int num2 = 10;
 
         if (num1 < num2){
