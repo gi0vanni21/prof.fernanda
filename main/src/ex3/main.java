@@ -3,12 +3,14 @@ package ex3;
 public class main {
     public static void main(String[] args) {
 
-        string a = "Giovanni";
-        string b = "Monteiro";
+        String a = "Giovanni";
+        String b = "Monteiro";
 
-        if  {
+        if (a.equals(b)) {
             System.out.println("as palavras sao iguais");
         }
-        else
+        else{
+            System.out.println("as palavras sao diferentes");
+        }
     }
 }
